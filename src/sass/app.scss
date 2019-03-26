@@ -8,14 +8,12 @@
 @import 'mixins';
 
 // Importar layouts
-@import 'layouts/login';
+// @import 'layouts/login';
 
 // Importar componentes
 @import 'components/form/form';
-@import 'components/painel_tempo';
 @import 'components/struct/header';
 @import 'components/struct/footer';
-@import 'components/banner';
 
 *{
     @include mp0;

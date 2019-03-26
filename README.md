@@ -1,20 +1,3 @@
-## Intranet corporativa INEMA-SEMA (frontend) 
+# Nome do projeto.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-
-## Utilização
-
-```bash
-yarn start
-```
-
-## Rotas funcionando
-
-*localhost:3000/login*
-
-*localhost:3000/painel*
-
-## Páginas estáticas funcionamento
-
-O caminho após url base é transformado em slug de para utilização da API WORDPRESS. Ex.: *localhost:3000/sema/historico* > slug: **sema-historico** e os valores dessa página são carregados.
+Esse projeto teve base clonada do meu [GitHub](https://github.com/filiperochalopes/react-template) , que por sua vez é estruturado com as definições do [Create React App](https://github.com/facebook/create-react-app).
